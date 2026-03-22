@@ -135,6 +135,8 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, message, Toast.LENGTH_LONG).show();
 
+
+
         // Optional: clear form
         // etFullName.setText("");
         // ... clear others
